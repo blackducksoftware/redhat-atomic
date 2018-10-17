@@ -6,7 +6,7 @@
 
 # Intro
 
-This is a scanner meant for the the atomic platform.
+This is a scanner meant for the atomic platform.
 
 
 # Usage
